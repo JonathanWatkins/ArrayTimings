@@ -1,0 +1,7 @@
+Test Parameters: SIZEX: 1000 SIZEY: 1000 NUM TESTS: 1000
+1D 1For Heap  2.63978s
+1D 1For Stack 2.64406s
+1D 2For Stack 0.18852s
+2D 2For Stack 0.179372s
+2D 1For Stack 3.56521s
+2D 1For Stack 8.22314s (this iterates through first index first)
